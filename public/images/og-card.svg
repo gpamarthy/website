@@ -1,0 +1,10 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" rx="48" fill="#020617"/>
+  <rect x="60" y="60" width="1080" height="510" rx="40" fill="#0B1120" stroke="#10B981" stroke-width="4"/>
+  <circle cx="140" cy="140" r="16" fill="#10B981"/>
+  <text x="100" y="220" fill="#5AC8FF" font-size="44" font-family="Arial" font-weight="700">Declassified Portfolio</text>
+  <text x="100" y="290" fill="#FFFFFF" font-size="56" font-family="Arial" font-weight="700">Offensive Security Engineer</text>
+  <text x="100" y="350" fill="#94A3B8" font-size="28" font-family="Arial">Cloud Defense · Red Team · Risk Reduction</text>
+  <rect x="100" y="410" width="240" height="56" rx="28" fill="#10B981"/>
+  <text x="120" y="448" fill="#020617" font-size="20" font-family="Arial" font-weight="700">Mission Ready</text>
+</svg>

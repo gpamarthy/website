@@ -1,0 +1,6 @@
+<svg width="600" height="240" viewBox="0 0 600 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="240" rx="40" fill="#0F172A"/>
+  <rect x="30" y="30" width="540" height="180" rx="30" stroke="#5AC8FF" stroke-width="4"/>
+  <text x="50%" y="50%" text-anchor="middle" fill="#10B981" font-size="48" font-family="Arial">DreamStudio</text>
+  <text x="50%" y="70%" text-anchor="middle" fill="#94A3B8" font-size="20" font-family="Arial">Cloud Defense</text>
+</svg>

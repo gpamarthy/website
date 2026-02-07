@@ -1,0 +1,6 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" rx="60" fill="#0F172A"/>
+  <circle cx="150" cy="150" r="110" stroke="#10B981" stroke-width="8"/>
+  <text x="50%" y="50%" text-anchor="middle" fill="#10B981" font-size="46" font-family="Arial">OSEP</text>
+  <text x="50%" y="68%" text-anchor="middle" fill="#94A3B8" font-size="18" font-family="Arial">OffSec</text>
+</svg>

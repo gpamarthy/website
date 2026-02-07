@@ -1,0 +1,8 @@
+<svg width="800" height="520" viewBox="0 0 800 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="520" rx="40" fill="#0B1120"/>
+  <path d="M220 300C220 246 265 200 320 200C343 164 383 140 430 140C500 140 558 198 558 268C600 276 632 314 632 360C632 412 590 454 538 454H252C196 454 150 408 150 352C150 306 179 266 220 300Z" fill="#1E293B" stroke="#5AC8FF" stroke-width="4"/>
+  <circle cx="320" cy="300" r="36" fill="#0F172A" stroke="#10B981" stroke-width="3"/>
+  <circle cx="420" cy="300" r="36" fill="#0F172A" stroke="#10B981" stroke-width="3"/>
+  <circle cx="520" cy="300" r="36" fill="#0F172A" stroke="#10B981" stroke-width="3"/>
+  <text x="50%" y="90%" text-anchor="middle" fill="#10B981" font-size="26" font-family="Arial">Cloud Architecture Map</text>
+</svg>
